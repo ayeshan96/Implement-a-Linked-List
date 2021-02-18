@@ -21,10 +21,10 @@
 
 * Output should be,
 
-	Input No of nodes: 3 </br>
-	Input data for node 1: 2 <br/>
-	Input data for node 2: 5 <br/>
-	Input data for node 3: 8 <br/><br/>
+		Input No of nodes: 3 </br>
+		Input data for node 1: 2 <br/>
+		Input data for node 2: 5 <br/>
+		Input data for node 3: 8 <br/><br/>
 
 		1 - Insert Beginning <br/>
 		2 - Insert End <br/>
