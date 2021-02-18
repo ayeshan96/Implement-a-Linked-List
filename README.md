@@ -21,18 +21,18 @@
 
 * Output should be,
 
-		Input No of nodes: 3 </br>
-		Input data for node 1: 2 <br/>
-		Input data for node 2: 5 <br/>
-		Input data for node 3: 8 <br/><br/>
+		Input No of nodes: 3 
+		Input data for node 1: 2 
+		Input data for node 2: 5 
+		Input data for node 3: 8 
 
-		1 - Insert Beginning <br/>
-		2 - Insert End <br/>
-		3 – Delete Beginning <br/>
-		4 – Delete End <br/>
-		5 – Delete Value <br/>
-		6 – Print <br/>
-		7 – Search <br/>
-		8 – Sum <br/><br/>
+		1 - Insert Beginning 
+		2 - Insert End 
+		3 – Delete Beginning 
+		4 – Delete End 
+		5 – Delete Value 
+		6 – Print 
+		7 – Search 
+		8 – Sum 
 	
 		Enter Your Choice:
