@@ -19,17 +19,20 @@
 ```
 
 
-Your output should be like,
-Input No of nodes: 3
-Input data for node 1: 2
-Input data for node 2: 5
-Input data for node 3: 8
-1 - Insert Beginning
-2 - Insert End
-3 – Delete Beginning
-4 – Delete End
-5 – Delete Value
-6 – Print
-7 – Search
-8 – Sum
-Enter Your Choice:
+* Your output should be like,
+
+	Input No of nodes: 3
+	Input data for node 1: 2
+	Input data for node 2: 5
+	Input data for node 3: 8
+
+	* 1 - Insert Beginning
+	* 2 - Insert End
+	* 3 – Delete Beginning
+	* 4 – Delete End
+	* 5 – Delete Value
+	* 6 – Print
+	* 7 – Search
+	* 8 – Sum
+	
+	* Enter Your Choice:
