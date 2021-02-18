@@ -19,10 +19,10 @@
 ```
 
 
-* Your output should be like,
+* Output should be,
 
-	Input No of nodes: 3
-	Input data for node 1: 2
+	Input No of nodes: 3 </br>
+	Input data for node 1: 2 <br/>
 	Input data for node 2: 5
 	Input data for node 3: 8
 
